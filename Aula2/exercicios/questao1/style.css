@@ -1,0 +1,19 @@
+/* formatacao do texto */
+h1{ color:#ff0000;}
+p{text-align: justify;}
+
+
+/* formatacao da tabela */
+table, th, td {
+    border: 1px solid rgb(248, 241, 241);
+    border-collapse: collapse;
+    background-color: #c48530;}
+
+  th {  background-color: #fd3303 }
+
+  td{ text-align: center; }
+
+  td:hover { color: #fff;
+    background-color: #999;
+  }
+  

@@ -1,0 +1,12 @@
+/* formatacao da tabela */
+table, th, td, tr {
+    border: 3px solid rgb(248, 241, 241);
+    border-collapse: collapse;
+    background-color: #fcecd8;}
+
+    th{text-align: left;
+    background-color:#b58f83 ;}
+
+/* formatacao do titulo */
+    h1, h2{color:#5294a8;}
+    p{text-align: justify;}

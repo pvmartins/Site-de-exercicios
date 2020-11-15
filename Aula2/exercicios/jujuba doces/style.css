@@ -1,0 +1,16 @@
+/* formatacao da tabela */
+table, th, td, tr {
+    border: 3px solid rgb(248, 241, 241);
+    border-collapse: collapse;
+    background-color: #5a9264;}
+
+    th{
+    text-align: center;
+    color: rgb(247, 243, 243);
+    background-color:#18103b;}
+
+/* formatacao do titulo */
+    h1{color:#54305e;}
+    h2{color:#3c5f94;}
+    h3 {color: rgb(197, 58, 58);}
+    p{text-align: justify;}
