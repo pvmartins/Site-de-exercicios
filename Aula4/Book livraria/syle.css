@@ -1,0 +1,73 @@
+
+body{
+    font-size: 12pt;
+    font-family: Tahoma;
+}
+
+#total{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto; /* centralizar a div total*/
+}
+
+#logo{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#banner{
+    width: 950px;
+    height: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0px 20px 30px;
+    margin-bottom: 2px;
+    margin-top: 25px;
+}
+
+div#banner a {
+    font-size: 13pt;
+    color: white;
+    padding-left: 45px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+div#banner a :hover {
+    text-decoration: underline;
+}
+div#imagem {
+    margin-bottom: 20px;
+}
+
+div#primeiro {
+   width: 650px;
+   float: left;
+}
+
+div#segundo {
+    width: 300px;
+    float: right;
+    margin-right: 0%;
+}
+
+
+div#colunas p {
+    color: gray;
+}
+div#colunas h1 {
+    font-size: 14pt;
+}
+div#colunas h2 {
+    font-size: 13pt;
+}
+
+footer {
+    clear: both;  /* limpar o float*/
+    color: gray;
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center; 
+    font-size: 11pt;
+}
